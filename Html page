@@ -1,0 +1,41 @@
+<center>
+<body bgcolor="grey">
+<h1 height="100"> <b>Registration Form</b></h1>
+    <form>
+    <table>
+        <tr>
+            <td height="50">Name</td>
+            <td> <input type="text" placeholder="Enter your name"></td>
+        </tr>
+        <tr>
+            <td height="50">Department</td>
+            <td>
+                <select>
+                <option>Computer Science And Engineering </option>
+                <option>Electrical And Electronical Engineering</option>
+                <option>Information Technology</option>
+                <option>Agricultural Engineering</option>
+            </select>
+            </td>
+        </tr>
+        <tr>
+            <td height="50">College Name</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td height="50">Email ID</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td height="50">Mobile Number</td>
+            <td><input type="Number"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td height="70"><input type="Submit"></td>
+        </tr>
+
+    </table>
+    </form>
+    </body>
+</center>
